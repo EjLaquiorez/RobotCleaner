@@ -1,6 +1,5 @@
 using System;
 using System.Threading;
-
 namespace RobotCleaner
 {
     public class Program
@@ -9,7 +8,7 @@ namespace RobotCleaner
         {
             Console.WriteLine("Initialize robot");
 
-            IStrategy Perimeter_Hugger_Strategy = new PerimeterHuggerStrategy();
+            IStrategy zigzagStrategy = new ZigzagStrategy();
 
             Map map = new Map(20, 10);
             // map.Display( 10,10);
@@ -20,7 +19,7 @@ namespace RobotCleaner
             map.AddObstacle(12, 1);
             map.Display(11, 8);
 
-            Robot robot = new Robot(map, Perimeter_Hugger_Strategy);
+            Robot robot = new Robot(map, zigzagStrategy);
 
             robot.StartCleaning();
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotCleaner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cd4adca60d38d4fcda016d226ee255300f42a49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f6ec0ead88ad0ddb3103a9c6a436292af5c0632")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotCleaner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotCleaner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
