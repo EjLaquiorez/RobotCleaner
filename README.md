@@ -1,4 +1,4 @@
-# 🤖 RoboCleaner Activity
+# 🤖 RobotCleaner
 
 A simple **C# console simulation** that models a **robot vacuum cleaner** navigating a grid map and cleaning dirt based on different **cleaning strategies** (movement patterns).
 
