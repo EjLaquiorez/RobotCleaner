@@ -88,7 +88,22 @@ namespace RobotCleaner
                 Console.WriteLine();
             } //outer for loop
             // add delay
-            Thread.Sleep(200);
+            Thread.Sleep(10);
         } // display method
+
+        public bool HasAnyDirt()
+        {
+            for (int x = 0; x < this.Width; x++)
+            {
+                for (int y = 0; y < this.Height; y++)
+                {
+                    if (_grid[x, y] == CellType.Dirt)
+                    {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
     }
 }

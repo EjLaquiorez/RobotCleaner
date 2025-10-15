@@ -35,11 +35,9 @@ namespace RobotCleaner
 
         public void CleanCurrentSpot()
         {
-            if (_map.IsDirt(X, Y))
-            {
-                _map.Clean(X, Y);
-                _map.Display(X, Y);
-            }
+            // For demonstration: mark every visited spot as Cleaned so coverage is visible
+            _map.Clean(X, Y);
+            _map.Display(X, Y);
         }
 
         public void StartCleaning()
