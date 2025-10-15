@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.sourcelink.json
+C:\Users\Administrator\Desktop\RobotCleaner\bin\Debug\net8.0\RobotCleaner.exe
+C:\Users\Administrator\Desktop\RobotCleaner\bin\Debug\net8.0\RobotCleaner.deps.json
+C:\Users\Administrator\Desktop\RobotCleaner\bin\Debug\net8.0\RobotCleaner.runtimeconfig.json
+C:\Users\Administrator\Desktop\RobotCleaner\bin\Debug\net8.0\RobotCleaner.dll
+C:\Users\Administrator\Desktop\RobotCleaner\bin\Debug\net8.0\RobotCleaner.pdb
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.dll
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\refint\RobotCleaner.dll
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.pdb
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\RobotCleaner.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\RobotCleaner\obj\Debug\net8.0\ref\RobotCleaner.dll
