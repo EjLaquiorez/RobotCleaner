@@ -9,7 +9,7 @@ namespace RobotCleaner
         {
             Console.WriteLine("Initialize robot");
 
-            IStrategy some_strategy = new SomeStrategy();
+            IStrategy Perimeter_Hugger_Strategy = new PerimeterHuggerStrategy();
 
             Map map = new Map(20, 10);
             // map.Display( 10,10);
@@ -20,7 +20,7 @@ namespace RobotCleaner
             map.AddObstacle(12, 1);
             map.Display(11, 8);
 
-            Robot robot = new Robot(map, some_strategy);
+            Robot robot = new Robot(map, Perimeter_Hugger_Strategy);
 
             robot.StartCleaning();
 
